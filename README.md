@@ -24,32 +24,11 @@ Usage
 
 Clone software:
 ```sh
-$ git clone https://github.com/vtomo/07_13_Ozawatomoyuki.git
+$ git clone https://github.com/vtomo/07_13_ozawa_tomoyuki.git
 ```
 
-Modify software:
-```
-$ vi ~/HANSHIN-Tigers-report/tigers_report.py
+License
+------------
 
-...
-
-# replace YOUR-USER-AGENT to your User-Agent
-headers = {'User-Agent': 'YOUR-USER-AGENT'}
-```
-
-Execute following command:
-```sh
-$ python ~/HANSHIN-Tigers-report/tigers_report.py
-```
-
-result (for example):
-```sh
-試合終了
-阪神2 - 7巨人
-```
-Fight! Fight! HANSHIN Tigers!
-
-
-## Licence
 OzaTomo is licensed under the [MIT](#) license.  
 Copyright &copy; 2017, Tomoyuki Ozawa
