@@ -29,6 +29,8 @@ $ git clone https://github.com/vtomo/07_13_ozawa_tomoyuki.git
 
 Open file [entry.php] and enter data.
 
+Open file [index.php] and you can see the data you registered about your favorite books.
+
 
 
 License
