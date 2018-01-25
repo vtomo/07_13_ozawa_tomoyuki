@@ -27,6 +27,10 @@ Clone software:
 $ git clone https://github.com/vtomo/07_13_ozawa_tomoyuki.git
 ```
 
+Open file [entry.php] and enter data.
+
+
+
 License
 ------------
 
